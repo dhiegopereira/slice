@@ -60,10 +60,17 @@ Uso
     npm run process
     ```
 
-
-npm run process
 Consultas SQL
 
 As consultas SQL para análise dos dados estão localizadas no diretório [query](query).
+
+---
+
+OBS: 
+> Caso você tenha o docker instalado, pode executar o comando abaixo para iniciar o MySQL
+
+```sh
+sudo docker compose up -d
+```
 
 
